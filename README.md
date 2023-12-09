@@ -1,2 +1,2 @@
-# my-dotfile
-My official dotfile
+# hyprland-dotfile
+My official hyprland dotfile
